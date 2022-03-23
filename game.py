@@ -31,7 +31,7 @@ while player_choice is False:
 	print("(-`д´-)You are a Monster Hunter!! Please kill the Monster!!")
 	print("The Monster HP:", computer_lives, "/", total_lives)
 	print("Monster Hunter HP:", player_lives, "/", total_lives)
-	print("=======================================================================")
+	print("===================================================================================")
 
 	print("Choose your weapon to kill the Monster!!! Or type quit to exit\n")
 
