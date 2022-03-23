@@ -12,7 +12,7 @@ This is our first Python Game of MultiMedia Authoring class.
 We need to complete the homework requirement for creating a Python Game with a repository and branches for a project on Github, and submit it to FOL.
 
 # Chau Lin Lam (Cathy) License
-Chau Lin Lam License
+Chau Lin Lam (Cathy) License
 
 Copyright (c) 2022 Chau Lin Lam
 
