@@ -35,4 +35,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Contact
 Chau Lin Lam
 c_lam151841@fanshaweonline.ca
-Project Link: https://github.com/cathylam27/Capturing-POKEMON-Game.git
+Project Link: https://github.com/cathylam27/HW2-Rock-Paper-Scissors-Game.git
